@@ -18,9 +18,9 @@ Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materi
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="left">
 
-  <img height="160em" src="https://streak-stats.demolab.com?user=pedromiho&theme=radical" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=pedromiho&theme=light" />
 
 </div>
 
