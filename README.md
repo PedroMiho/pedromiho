@@ -2,6 +2,18 @@
 
 Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materiais, exemplos de código e projetos utilizados nas aulas. Aqui você encontrará conteúdos voltados para computação em nuvem, desenvolvimento, infraestrutura e bancos de dados, todos organizados para apoiar o aprendizado dos alunos.
 
+
+<!-- <div>
+
+    <a href="https://github.com/PedroMiho/">
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username-pedromiho&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-pedromiho&layout-compact&langs_count=16&theme-dracula"/>
+
+</div> -->
+
+
 <div style="display: inline_block"><br> 
   
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
