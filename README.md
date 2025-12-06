@@ -30,4 +30,14 @@ Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materi
   <a href="https://www.linkedin.com/in/pedro-miho"> 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a> 
+  <a href="https://www.credly.com/users/pedro-miho"> 
+    <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white"> 
+  </a> 
+  <a href="https://learn.microsoft.com/pt-br/users/PedroMiho"> 
+    <img src="https://img.shields.io/badge/Azure%20-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
+  </a> 
+  <a href="https://www.skills.google/public_profiles/64db9b1c-7b64-47db-b382-e8b09583b9e6"> 
+    <img src="https://img.shields.io/badge/Google%20Cloud%20-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> 
+  </a> 
 </div>
+
