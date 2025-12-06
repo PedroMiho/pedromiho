@@ -1,4 +1,4 @@
-## Pedro Miho, sou professor de Tecnologia da Informação!
+## Pedro Miho, professor de Tecnologia da Informação!
 
 Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materiais, exemplos de código e projetos utilizados nas aulas. Aqui você encontrará conteúdos voltados para computação em nuvem, desenvolvimento, infraestrutura e bancos de dados, todos organizados para apoiar o aprendizado dos alunos.
 
