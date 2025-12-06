@@ -20,6 +20,6 @@ Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materi
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"> 
+  <a href="https://www.linkedin.com/in/pedro-miho" target="_blank"> 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
 </div>
