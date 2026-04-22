@@ -3,7 +3,7 @@
 Sou professor de TI no SENAI e este GitHub foi criado para disponibilizar materiais, exemplos de código e projetos utilizados nas aulas. Aqui você encontrará conteúdos voltados para computação em nuvem, desenvolvimento, infraestrutura e bancos de dados, todos organizados para apoiar o aprendizado dos alunos.
 
 <div style="display: inline_block"><br> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> <br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"> 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
